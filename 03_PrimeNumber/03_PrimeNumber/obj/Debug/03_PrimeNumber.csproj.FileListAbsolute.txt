@@ -1,0 +1,7 @@
+C:\Users\212769493\source\repos\03_PrimeNumber\03_PrimeNumber\bin\Debug\03_PrimeNumber.exe.config
+C:\Users\212769493\source\repos\03_PrimeNumber\03_PrimeNumber\bin\Debug\03_PrimeNumber.exe
+C:\Users\212769493\source\repos\03_PrimeNumber\03_PrimeNumber\bin\Debug\03_PrimeNumber.pdb
+C:\Users\212769493\source\repos\03_PrimeNumber\03_PrimeNumber\obj\Debug\03_PrimeNumber.csprojAssemblyReference.cache
+C:\Users\212769493\source\repos\03_PrimeNumber\03_PrimeNumber\obj\Debug\03_PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\212769493\source\repos\03_PrimeNumber\03_PrimeNumber\obj\Debug\03_PrimeNumber.exe
+C:\Users\212769493\source\repos\03_PrimeNumber\03_PrimeNumber\obj\Debug\03_PrimeNumber.pdb

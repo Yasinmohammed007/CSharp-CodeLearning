@@ -1,0 +1,7 @@
+C:\Users\212769493\source\repos\05_Palindrome_Number\05_Palindrome_Number\bin\Debug\05_Palindrome_Number.exe.config
+C:\Users\212769493\source\repos\05_Palindrome_Number\05_Palindrome_Number\bin\Debug\05_Palindrome_Number.exe
+C:\Users\212769493\source\repos\05_Palindrome_Number\05_Palindrome_Number\bin\Debug\05_Palindrome_Number.pdb
+C:\Users\212769493\source\repos\05_Palindrome_Number\05_Palindrome_Number\obj\Debug\05_Palindrome_Number.csprojAssemblyReference.cache
+C:\Users\212769493\source\repos\05_Palindrome_Number\05_Palindrome_Number\obj\Debug\05_Palindrome_Number.csproj.CoreCompileInputs.cache
+C:\Users\212769493\source\repos\05_Palindrome_Number\05_Palindrome_Number\obj\Debug\05_Palindrome_Number.exe
+C:\Users\212769493\source\repos\05_Palindrome_Number\05_Palindrome_Number\obj\Debug\05_Palindrome_Number.pdb

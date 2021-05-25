@@ -1,0 +1,7 @@
+C:\Users\212769493\source\repos\04_Fibanocci_Series\04_Fibanocci_Series\bin\Debug\04_Fibanocci_Series.exe.config
+C:\Users\212769493\source\repos\04_Fibanocci_Series\04_Fibanocci_Series\bin\Debug\04_Fibanocci_Series.exe
+C:\Users\212769493\source\repos\04_Fibanocci_Series\04_Fibanocci_Series\bin\Debug\04_Fibanocci_Series.pdb
+C:\Users\212769493\source\repos\04_Fibanocci_Series\04_Fibanocci_Series\obj\Debug\04_Fibanocci_Series.csprojAssemblyReference.cache
+C:\Users\212769493\source\repos\04_Fibanocci_Series\04_Fibanocci_Series\obj\Debug\04_Fibanocci_Series.csproj.CoreCompileInputs.cache
+C:\Users\212769493\source\repos\04_Fibanocci_Series\04_Fibanocci_Series\obj\Debug\04_Fibanocci_Series.exe
+C:\Users\212769493\source\repos\04_Fibanocci_Series\04_Fibanocci_Series\obj\Debug\04_Fibanocci_Series.pdb

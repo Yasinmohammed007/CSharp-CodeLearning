@@ -1,0 +1,6 @@
+C:\Users\212769493\source\repos\02_Multiplication_Table\02_Multiplication_Table\bin\Debug\02_Multiplication_Table.exe.config
+C:\Users\212769493\source\repos\02_Multiplication_Table\02_Multiplication_Table\bin\Debug\02_Multiplication_Table.exe
+C:\Users\212769493\source\repos\02_Multiplication_Table\02_Multiplication_Table\bin\Debug\02_Multiplication_Table.pdb
+C:\Users\212769493\source\repos\02_Multiplication_Table\02_Multiplication_Table\obj\Debug\02_Multiplication_Table.csproj.CoreCompileInputs.cache
+C:\Users\212769493\source\repos\02_Multiplication_Table\02_Multiplication_Table\obj\Debug\02_Multiplication_Table.exe
+C:\Users\212769493\source\repos\02_Multiplication_Table\02_Multiplication_Table\obj\Debug\02_Multiplication_Table.pdb
