@@ -1,0 +1,7 @@
+C:\Users\212769493\source\repos\06_factorial\06_factorial\bin\Debug\06_factorial.exe.config
+C:\Users\212769493\source\repos\06_factorial\06_factorial\bin\Debug\06_factorial.exe
+C:\Users\212769493\source\repos\06_factorial\06_factorial\bin\Debug\06_factorial.pdb
+C:\Users\212769493\source\repos\06_factorial\06_factorial\obj\Debug\06_factorial.csprojAssemblyReference.cache
+C:\Users\212769493\source\repos\06_factorial\06_factorial\obj\Debug\06_factorial.csproj.CoreCompileInputs.cache
+C:\Users\212769493\source\repos\06_factorial\06_factorial\obj\Debug\06_factorial.exe
+C:\Users\212769493\source\repos\06_factorial\06_factorial\obj\Debug\06_factorial.pdb
