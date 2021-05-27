@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
+# Visual Studio Version 16-Yasin
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_PrimeNumber", "03_PrimeNumber\03_PrimeNumber.csproj", "{EF6B32B5-7A31-4AEB-8AFF-85AE821D5BE8}"
